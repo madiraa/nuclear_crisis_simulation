@@ -4,7 +4,7 @@ This project simulates decision-making in hypothetical nuclear escalation scenar
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. **Scenario Generation**  
    The simulation starts by generating a scenario based on a predefined template:
